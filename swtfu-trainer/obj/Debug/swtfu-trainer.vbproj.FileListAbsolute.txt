@@ -1,0 +1,11 @@
+c:\users\lane\documents\visual studio 2015\Projects\swtfu-trainer\swtfu-trainer\bin\Debug\swtfu-trainer.exe.config
+c:\users\lane\documents\visual studio 2015\Projects\swtfu-trainer\swtfu-trainer\bin\Debug\swtfu-trainer.exe
+c:\users\lane\documents\visual studio 2015\Projects\swtfu-trainer\swtfu-trainer\bin\Debug\swtfu-trainer.pdb
+c:\users\lane\documents\visual studio 2015\Projects\swtfu-trainer\swtfu-trainer\bin\Debug\swtfu-trainer.xml
+c:\users\lane\documents\visual studio 2015\Projects\swtfu-trainer\swtfu-trainer\obj\Debug\swtfu-trainer.vbprojResolveAssemblyReference.cache
+c:\users\lane\documents\visual studio 2015\Projects\swtfu-trainer\swtfu-trainer\obj\Debug\swtfu_trainer.Form1.resources
+c:\users\lane\documents\visual studio 2015\Projects\swtfu-trainer\swtfu-trainer\obj\Debug\swtfu_trainer.Resources.resources
+c:\users\lane\documents\visual studio 2015\Projects\swtfu-trainer\swtfu-trainer\obj\Debug\swtfu-trainer.vbproj.GenerateResource.Cache
+c:\users\lane\documents\visual studio 2015\Projects\swtfu-trainer\swtfu-trainer\obj\Debug\swtfu-trainer.exe
+c:\users\lane\documents\visual studio 2015\Projects\swtfu-trainer\swtfu-trainer\obj\Debug\swtfu-trainer.xml
+c:\users\lane\documents\visual studio 2015\Projects\swtfu-trainer\swtfu-trainer\obj\Debug\swtfu-trainer.pdb
